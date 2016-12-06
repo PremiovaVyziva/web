@@ -1,7 +1,11 @@
 body {font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;}
-#header-cart {background:#fff; border:1px solid #ddd;}
 #top-links, #top-links a, #langs-curr, #langs-curr a {color: inherit;}
+
+#header-cart {background:#fff; border:1px solid #ddd;}
 #header-cart h4 {color:inherit;}
 #header-cart table strong {color: inherit;}
-#menu {background:#75a607;}
+
+#menu {background:#a1c1c8;}
+#menu li {background:none;}
+
 #header-in {background-color:#fff;}
