@@ -10,9 +10,6 @@ body {font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica
 #header-in {background-color:#fff;}
 
 #main-wrapper-in {
-  background: url('https://cdn.rawgit.com/PremiovaVyziva/web/master/bg.jpg');
+  background: #000 url("https://cdn.rawgit.com/PremiovaVyziva/web/master/bg.jpg") center center no-repeat;
   background-size: cover;
-  background-size: contain;
-  background-repeat: no-repeat;
-  background-color: #000;
 }
