@@ -40,3 +40,6 @@ body {
 .categories li { border-bottom: 1px solid #ababab; }
 .categories li:last-of-type {border:none;}
 .categories ul {margin:0px;}
+
+/* signature */
+#signature a {display: none;}
