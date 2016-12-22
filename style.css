@@ -16,5 +16,5 @@ body {font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica
 
 /* categories */
 #categories { font-size: 16px;}
-.cat-01 .topic {background: none!important;}
+.cat-01 .topic {background: #fff!important;}
 .categories .topic { padding: 8px; }
