@@ -22,7 +22,7 @@ body {font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica
 .cat-01 .topic {background: #fff;}
 .categories .topic { padding: 8px; font-size: 16px; text-align: center}
 .cat-01 a { background: none; }
-.categories a { width:auto; padding:4px;}
+.categories a { width:auto; padding:6px 8px;}
 .categories li { border-bottom: 1px solid #ababab; }
 .categories li:last-of-type {border:none;}
-.categories ul {margin:3px;}
+.categories ul {margin:0px;}
