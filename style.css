@@ -12,6 +12,11 @@ body {
   padding-top: 20px;
 }
 
+/* header image */
+#header-in {
+  background: #fff url("https://cdn.rawgit.com/PremiovaVyziva/web/master/header/header.png") top center no-repeat;
+}
+
 #top-links, #top-links a, #langs-curr, #langs-curr a {color: inherit;}
 
 /* header */
