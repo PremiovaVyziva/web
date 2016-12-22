@@ -13,3 +13,8 @@ body {font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica
   background: #000 url("https://cdn.rawgit.com/PremiovaVyziva/web/master/bg.jpg") top center no-repeat;
   background-size: 100%;
 }
+
+/* categories */
+#categories { font-size: 16px;}
+.cat-01 .topic {background: none!important;}
+.categories .topic { padding: 8px; }
